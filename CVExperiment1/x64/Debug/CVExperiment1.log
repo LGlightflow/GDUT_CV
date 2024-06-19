@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\project\program\vs2017project\CVExperiment1\main.cpp(46,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\program\vs2017project\CVExperiment1\main.cpp(47,32): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  CVExperiment1.vcxproj -> D:\project\program\vs2017project\CVExperiment1\x64\Debug\CVExperiment1.exe
